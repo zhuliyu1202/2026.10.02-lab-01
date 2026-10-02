@@ -1,6 +1,6 @@
 ---
 title: "Lab 01 - UK Attractions"
-author: "LIYU ZHU"
+author: "LIYU ZHU_"
 date: "`r Sys.Date()`"
 output: html_document
 ---
